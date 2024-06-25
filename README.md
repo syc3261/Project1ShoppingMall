@@ -1,5 +1,5 @@
-# team_project_1
-## final
+# Project1 ShoppingMall
+
 <details>
 <summary>SQL</summary>
 
@@ -276,20 +276,8 @@ Hibernate:
 
 ````
 
-![img_1.png](img_1.png)
 
-![img.png](img.png)
 
 </details>
 
-### member
-=======
-##### asdfasdfasdf
-##### asdfasdf
-### member
-###### READ
-# action
-# 0509_teamProject1
-# 0509_teamProject1
-# 0509_teamProjectFinal
-# 0509_teamProjectFinal
+
